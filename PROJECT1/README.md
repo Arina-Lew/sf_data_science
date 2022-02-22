@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 
-https://nbviewer.org/github/Arina-Lew/sf_data_science/blob/main/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%20Project%201.ipynb
+https://nbviewer.org/github/Arina-Lew/sf_data_science/blob/main/PROJECT1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%20Project%201.ipynb
 
 ### Описание проекта    
 Решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter. А именно, необходимо провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
